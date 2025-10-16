@@ -1,0 +1,99 @@
+Candidate Name,Address Redacted?,Candidate Residential Address,Candidate Mailing Address,1 if no race disclosure,1 if white,1 if black,1 if Latino,1 if Asian,1 if American Indian or Alaskan Native,1 if Middle Eastern or North African,1 if candidate website,Link to campaign website,District,Win?,Rounds Survived,Total Rounds,Prop. Rounds Survived,WFP endorsed,DSA greenlight,DSA endorsed,DSA red light,UfP greenlight,UfP endorsed,PMC greenlight,PMC endorsed,RPC endorsed,Oregonian endorsed,PNW greenlight,PNW endorsed,PfA endorsed,PfA red light,PPA endorsed,ST greenlight,ST endorsed,SEIU endorsed,AFT endorsed,AFSCME endorsed,LiUNA endorsed,IBEW endorsed,Teamsters endorsed,SM endorsed,SC endorsed,BerniePDX endorsed,ACP endorsed,OPP endorsed,WashCo Dems endorsed,Ind. Party of OR endorsed,MultCo GOP endorsed
+Candace Avalos,Yes,"12421 SE Caruthers St, Portland, OR 97233",,0,0,1,1,0,0,0,1,https://candaceforportland.com/,1,1,17,17,1,1,1,0,0,0,0,0,0,0,1,1,1,1,0,0,1,1,1,1,1,1,0,0,1,1,1,0,0,0,0,0
+Cayle Tern,,"3532 NE 165th Ave, Portland, OR 97230",,0,0,0,0,1,0,0,1,https://www.cayleforpdx.com/,1,0,4,17,0.235294118,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+David Linn,,"16022 SE Grant St, Portland, OR 97233",,0,1,0,0,0,0,0,1,https://linnforportland.com/,1,0,8,17,0.470588235,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Deian Salazar,,"12228 NE Multnomah St, Portland, OR 97230",,0,1,0,1,0,1,0,1,https://www.salazarforthepeople.com/,1,0,5,17,0.294117647,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Doug Clove,,"7905 SE 141st Ave, Portland, OR 97236",,1,0,0,0,0,0,0,0,,1,0,10,17,0.588235294,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Jamie Dunphy,,"4532 NE 109th Ave, Portland, OR 97220",,0,1,0,0,0,0,0,1,https://www.jamiedunphy.com/,1,1,17,17,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,0,1,1,0,0,0,0,0
+Joe Allen,Yes,,,1,0,0,0,0,0,0,1,https://www.joeallenforportland.com/about,1,0,7,17,0.411764706,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Joe Furi,,"10156 SE Pardee St, Portland, OR 97266",,0,1,0,0,0,0,0,1,http://joefuriforportland.com/,1,0,2,17,0.117647059,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Loretta Smith,,"3818 NE 156th Ave, Portland, OR 97230",,0,0,1,0,0,0,0,1,https://www.lorettasmithpdx.com/,1,1,17,17,1,0,0,0,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Michael (Mike) Sands,,"1419 SE 107th Ave Apt. 502, Portland, OR 97216",,0,1,0,0,0,0,0,0,,1,0,6,17,0.352941176,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Noah Ernst,,"11204 SE Pine Ct, Portland, OR 97216",,0,1,0,0,0,0,0,1,https://www.noahernst4portland.com/,1,0,14,17,0.823529412,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Peggy Sue Owens,Yes,,"PO BOX 30088, Portland, OR 97294",0,1,0,0,0,1,0,1,https://commonsensecampaignpdx.com/,1,0,9,17,0.529411765,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Steph Routh,,"5031 SE 85th Ave, Portland, OR 97266",,0,1,0,0,0,0,0,1,https://www.steph4eastportland.com/,1,0,12,17,0.705882353,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0
+Terrence Hayes,,"3121 SE 141st Ave, Portland, OR 97236",,0,0,1,0,0,0,0,1,https://teamhayesforportland.com/,1,0,15,17,0.882352941,0,0,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Thomas Shervey,,"13420 SE Pine St, Portland, OR 97233",,0,1,0,0,0,0,0,0,,1,0,3,17,0.176470588,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Timur Ender,Yes,"312 SE 117th Ave, Portland, OR 97216","PO Box 8562, Portland, OR 97207",0,0,0,0,0,0,1,1,https://www.ender4eastportland.com/,1,0,11,17,0.647058824,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,1,0,1,0,1,1,1,1,0,0,0,0
+Antonio Jamal PettyJohnBlue,,"1500 NE 15th Ave Apt. 446, Portland, OR 97232",,0,0,1,0,0,0,0,1,https://antoniopettyjohnblueforcommissioner.com/,2,0,2,23,0.086956522,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bob Simril,,"2525 NE 32nd Pl, Portland, OR 97212",,0,0,1,0,0,0,0,1,https://www.votebobpdx.com/,2,0,15,23,0.652173913,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Chris Olson,,"2020 NE Clackamas St, Portland, OR 97232",,0,1,0,0,0,0,0,1,https://www.olsonforpdx.com/,2,0,11,23,0.47826087,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Dan Ryan,Yes,,"PO Box 6536, Portland, OR 97228",0,1,0,0,0,0,0,1,https://www.danryanforportland.com/,2,1,23,23,1,0,0,0,1,1,1,1,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Debbie Kitchin,,"2526 NE Wasco St, Portland, OR 97232",,0,1,0,0,0,0,0,1,https://electdebbiekitchin.com/,2,0,10,23,0.434782609,0,0,0,1,1,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Elana Pirtle-Guiney,,"5415 NE 14th Pl, Portland, OR 97211",,0,1,0,0,0,0,0,1,https://www.elanaforportland.com/,2,1,23,23,1,1,0,0,0,1,1,1,0,0,0,1,0,1,0,0,1,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0
+James Armstrong,,"1155 NE Morton St Portland, OR 97211",,0,1,0,0,0,0,0,1,https://www.armstrongforpdx.com/,2,0,12,23,0.52173913,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Jennifer Park,,"6943 N Campbell Ave, Portland, OR 97217",,0,1,0,0,0,0,0,1,https://www.persistwithpark.com/,2,0,9,23,0.391304348,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Jonathan Tasini,Yes,"3020 NE Rodney Ave, Portland, OR 97212",,0,1,0,0,0,0,0,1,https://www.jonathantasini.com/,2,0,16,23,0.695652174,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,0,0,1,0,0,0,0,0
+Laura Streib,Yes,,"PO Box 83494, Portland, OR 97283",0,1,0,0,0,0,0,1,https://www.laura4pdx.com/,2,0,6,23,0.260869565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liz Taylor,Yes,,,0,0,1,0,0,0,0,0,,2,0,4,23,0.173913043,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mariah Hudson,,"2525 NE Knott St, Portland, OR 97212",,0,1,0,0,0,0,0,1,https://www.mariahforportland.com/,2,0,14,23,0.608695652,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0
+Marnie Glickman,Yes,,"PO Box 6536, Portland, OR 97228",0,1,0,0,0,0,0,1,https://www.marnieglickman.org/,2,0,17,23,0.739130435,0,1,1,0,1,1,1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,1,1,1,0,1,0,1,0
+Michael (Mike) Marshall,,"3035 NE 21st Ave, Portland, OR 97212",,0,1,0,0,0,0,0,1,https://www.mikemarshallforportland.com/,2,0,13,23,0.565217391,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Michelle DePass,,"4057 NE Mallory Ave, Portland, OR 97212",,0,0,1,1,0,0,0,1,https://depassforportland.com/,2,0,18,23,0.782608696,0,0,0,0,1,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+Nabil Zaghloul,,"3034 NE 34th Ave, Portland, OR 97212",,0,0,0,0,0,0,1,1,https://nabilforportland.com/,2,0,8,23,0.347826087,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Nat West,Yes,,,0,1,0,0,0,0,0,1,https://www.revnatforportland.com/,2,0,19,23,0.826086957,1,1,1,0,1,1,1,0,0,1,1,1,1,0,0,1,1,1,0,1,0,0,1,1,1,1,0,0,0,0,0
+Reuben Berlin,,"3305 NE Alameda St, Portland, OR 97212",,0,1,0,0,0,0,0,1,https://www.reubenberlin.com/,2,0,5,23,0.217391304,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sam Sachs,,"2010 NE 22nd Ave, Portland, OR 97212",,0,1,0,0,0,0,0,1,https://www.samsachsforportland.com/,2,0,3,23,0.130434783,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sameer Kanal,,"8006 N Portsmouth Ave, Portland, OR 97203",,0,0,0,0,1,0,0,1,https://www.kanalforportland.com/,2,1,23,23,1,1,1,1,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0
+Tiffani Penson,,"6030 NE 25th Ave, Portland, OR 97211",,0,0,1,0,0,0,0,1,https://www.tiffaniforpdx.com/,2,0,21,23,0.913043478,0,0,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+William Mespelt,,"6804 N Mississippi Ave, Portland, OR 97217",,0,1,0,0,0,0,0,1,https://www.portlandwithwill.com/,2,0,7,23,0.304347826,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Ahlam K Osman,,"8556 NE Clackamas St, Portland, OR 97220",,0,0,1,0,0,0,0,1,https://ahlam4pdx.com/,3,0,16,30,0.533333333,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Angelita Morillo,Yes,,"PO Box 14611, Portland, OR 97293",0,0,0,1,0,0,0,1,https://www.angelitaforportland.com/,3,1,30,30,1,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,1,1,0,0,0,1,1,1,1,1,0,0,0,0
+Brian Conley,,"335 SE 76th Ave, Portland, OR 97215",,1,0,0,0,0,0,0,1,https://www.conleyforpdx.com/,3,0,13,30,0.433333333,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chris Flanary,,"35 SE 79th Ave, Portland, OR 97215",,0,1,0,0,0,0,0,1,https://www.chrisforportland.com/about,3,0,19,30,0.633333333,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0
+Christopher Brummer,,"235 SE 78th Ave, Portland, OR 97215",,0,1,0,0,0,0,0,0,,3,0,10,30,0.333333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Clifford Higgins,,"1174 NE 70th Ave, Portland, OR 97213",,0,1,0,1,1,1,0,0,,3,0,1,30,0.033333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cristal Azul Otero,,"1010 SE Franklin St, Portland, OR 97202",,0,1,0,1,0,1,0,1,https://www.cristalotero.com/,3,0,22,30,0.733333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dan Gilk,Yes,,,0,1,0,0,0,0,0,1,https://www.danforportland.com/,3,0,11,30,0.366666667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Daniel DeMelo,Yes,,"PO Box 42307, Portland, OR 97242",0,1,0,1,0,0,0,1,https://demelo4portland.com/,3,0,23,30,0.766666667,0,0,0,1,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+David O'Connor,,"1955 SE Morrison St Apt. 107, Portland, OR 97214",,0,1,0,0,0,0,0,0,,3,0,3,30,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Harrison Kass,,"136 SE 71st Ave, Portland, OR 97215",,1,0,0,0,0,0,0,0,https://kassforpdx.com/,3,0,26,30,0.866666667,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Heart Free Pham,,"2955 NE Davis St, Portland, OR 97232",,0,1,0,0,1,0,0,1,https://www.heartforpdx.com/,3,0,15,30,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jaclyn Smith-Moore,,"2050 NE Hoyt St Apt. 430, Portland, OR 97232",,0,1,0,0,0,0,0,0,,3,0,5,30,0.166666667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jesse Cornett,Yes,"2909 SE Main St, Portland, OR 97214",,0,1,0,0,0,0,0,1,https://www.cornettforportland.com/,3,0,27,30,0.9,0,0,0,1,1,1,1,1,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+John Sweeney,,"1901 SE 35th Pl, Portland, OR 97214",,0,1,0,0,0,0,0,0,,3,0,9,30,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jonathan (Jon) Walker,,"3439 SE Division St, Portland, OR 97202",,0,1,0,0,0,0,0,1,https://www.walkerforportland.com/,3,0,21,30,0.7,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kelly Janes,,"3921 SE 64th Ave, Portland, OR 97206",,0,1,0,0,0,0,0,1,https://kj4pdx.com/,3,0,7,30,0.233333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kenneth (Kent) R Landgraver III,Yes,,"3439 SE Hawthorne Blvd Box 415, Portland, OR 97214",0,1,0,0,0,0,0,0,,3,0,2,30,0.066666667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kezia Wanner,,"3935 SE Cooper St, Portland, OR 97202",,1,0,0,0,0,0,0,1,https://keziaforportland.com/,3,0,30,30,1,0,0,0,1,1,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Luke Zak,Yes,,"PO Box 42307, Portland, OR 97242",0,1,0,0,0,0,0,1,https://www.lukeforpdx.com/,3,0,14,30,0.466666667,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Matthew (Matt) Anderson,,"6729 NE Hancock St, Portland, OR 97213",,0,0,1,0,0,0,0,1,https://mrandersonfor3.org/,3,0,17,30,0.566666667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Melodie Beirwagen,Yes,,,0,1,0,0,0,0,0,0,,3,0,18,30,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Patrick Hilton,Yes,,,0,1,0,0,0,0,0,1,https://www.patrickhilton4pdx.org/take-action,3,0,4,30,0.133333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Philippe Knab,Yes,,,1,0,0,0,0,0,0,1,https://www.philippeforportland.com/,3,0,25,30,0.833333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rex Burkholder,,"2824 SE Yamhill St, Portland, OR 97214",,0,1,0,0,0,0,0,1,https://www.rexforpdx.com/,3,0,28,30,0.933333333,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,1,1,0,1,0,1,0
+Sandeep Bali,Yes,,,0,0,0,0,1,0,0,1,https://www.betterwithbali.com/,3,0,24,30,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Steve Novick,,"4301 SE Lexington St, Portland, OR 97206",,0,1,0,0,0,0,0,1,https://www.novickforportland.com/,3,1,30,30,1,0,0,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Terry Parker,Yes,,"PO Box 13503, Portland, OR 97213",0,1,0,0,0,0,0,0,,3,0,12,30,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Theo Hathaway Saner,,"8618 NE Halsey St, Portland, OR 97220",,0,1,0,0,0,0,0,1,https://www.theohathawaysaner.com/,3,0,6,30,0.2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tiffany Koyama Lane,Yes,,"4110 SE Hawthorne Blvd PMB 634, Portland, OR 97214",0,0,0,0,1,0,0,1,https://teachertiffanyforthepeople.com/,3,1,30,30,1,1,1,1,0,0,0,0,0,0,0,1,1,1,0,0,1,1,1,1,1,0,0,1,1,1,1,1,0,0,0,0
+Andra Vltavin,,"7836 SW Terwilliger Blvd, Portland, OR 97219",,0,1,0,0,0,0,0,1,https://www.andraforportland.com/,4,0,22,32,0.6875,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Ben Hufford,Yes,,"PO Box 42307, Portland, OR 97242",0,1,0,0,0,0,0,1,https://www.ben4portland.com/,4,0,23,32,0.71875,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Bob Callahan,,"405 NW 18th Ave, Portland, OR 97209",,0,1,0,0,0,0,0,1,https://electbobcallahan.com/meet-bob,4,0,17,32,0.53125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bob Weinstein,,"2335 NW Raleigh St UNIT 203, Portland, OR 97210",,0,1,0,0,0,0,0,1,https://www.bobforportland.com/,4,0,25,32,0.78125,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brandon Farley,,"2041 NW Everett St #408, Portland, OR 97209",,0,1,0,0,0,0,0,0,,4,0,5,32,0.15625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chad Lykins,,"6021 SW 45th Ave, Portland, OR 97221",,0,1,0,0,0,0,0,1,https://www.lykinsforportland.com/,4,0,27,32,0.84375,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,1,0,0,0,1,1,0,1,1,1,0,1,0,0
+Chloe Mason,,"2240 NW Lovejoy St #206, Portland, OR 97210",,0,1,1,0,0,0,0,1,https://www.chloemasonforpdx.com/,4,0,20,32,0.625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chris Henry,,"11012 SW 4th Ave, Portland, OR 97219",,0,1,0,0,0,0,0,1,https://chrishenryfororegon.nationbuilder.com/,4,0,12,32,0.375,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Ciatta R Thompson,Yes,,,0,0,1,0,0,0,0,1,https://ciattaforportland.com/,4,0,15,32,0.46875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eli Arnold,Yes,,,0,1,0,0,0,0,0,1,https://www.eliforportland.com/,4,0,30,32,0.9375,0,0,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+Eric Zimmerman,Yes,,,0,1,0,0,0,0,0,1,https://ez4pdx.com/,4,1,32,32,1,0,0,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1
+John J Goldsmith,Yes,,,0,1,0,0,0,0,0,0,,4,0,11,32,0.34375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+John Toran,,"624 SW Jackson St, Portland, OR 97201",,0,0,1,0,0,0,0,0,,4,0,18,32,0.5625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Joseph (Joe) Alfone,,"2155 NW Everett St APT 25, Portland, OR 97210",,0,1,0,1,0,0,0,1,https://www.joealfone.com/,4,0,10,32,0.3125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kelly Doyle,,"3017 SW Hume St APT 6, Portland, OR 97219",,1,0,0,0,0,0,0,0,,4,0,6,32,0.1875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kevin Goldsmith,,"5816 SW Gillcrest Ct, Portland, OR 97221",,1,0,0,0,0,0,0,0,,4,0,21,32,0.65625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+L Christopher Regis,,"11203 SW Capitol Hwy, Portland, OR 97219",,1,0,0,0,0,0,0,0,,4,0,1,32,0.03125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lee Odell,Yes,,,1,0,0,0,0,0,0,0,,4,0,3,32,0.09375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lisa Freeman,Yes,,"PO Box 42307, Portland, OR 97242",0,1,0,0,0,0,0,1,https://www.lisaforportland.com/,4,0,26,32,0.8125,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0
+Michael Trimble,,"950 SW 21st Ave #601, Portland, OR 97205",,0,1,0,0,0,0,0,1,https://iamwithmichael.com/,4,0,9,32,0.28125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mike DiNapoli,,"735 SW St Clair Ave APT 1502, Portland, OR 97205",,0,1,0,0,0,1,0,1,https://mikedinapoli.org/,4,0,14,32,0.4375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Mitch Green,,"3530 SW Buddington St, Portland, OR 97219",,0,1,0,0,0,0,0,1,https://mitch4portland.com/,4,1,32,32,1,1,1,1,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,1,1,0,0,0,1,1,1,1,0,1,0,0
+Moses Ross,,"2917 SW Canby Ct, Portland, OR 97219",,0,1,0,1,0,0,0,1,https://www.moses4pdx.com/,4,0,16,32,0.5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0
+Olivia Clark,,"5170 S Landing Dr #303, Portland, OR 97239",,0,1,0,0,0,0,0,1,https://www.oliviaforportland.com/,4,1,32,32,1,0,0,0,1,1,1,1,1,1,1,1,0,0,0,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1
+Patrick Cashman,,"3024 SW Iowa St, Portland, OR 97239",,1,0,0,0,0,0,0,0,,4,0,4,32,0.125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Raquel Coyote,,"4232 SW Condor Ave, Portland, OR 97239",,0,1,0,1,0,0,0,0,,4,0,13,32,0.40625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sarah Silkie,,"5838 SW Nevada Ct, Portland, OR 97219",,0,1,0,0,0,0,0,1,https://sarahsilkie.com/leading-change,4,0,28,32,0.875,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+Stanley Penkin,,"1075 NW Northrup St UNIT 407, Portland, OR 97209",,0,1,0,0,0,0,0,1,https://www.penkinforportland.com/,4,0,19,32,0.59375,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tony Morse,,"4436 SE Crystal Springs Blvd, Portland, OR 97206",,0,1,0,0,0,0,0,1,https://tonyforpdx.com/,4,0,24,32,0.75,0,0,0,0,1,1,1,1,1,0,0,0,0,0,1,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0
+Tony Schwartz,Yes,,,0,1,0,0,0,0,0,0,,4,0,2,32,0.0625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
