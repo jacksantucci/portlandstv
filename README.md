@@ -7,3 +7,5 @@ Kosar, Kevin R., Jack Santucci, and Jaehun Lee. 2025.  <a href="https://www.aei.
 Kosar, Kevin R., Jack Santucci, and Jaehun Lee. 2025. <a href="https://manhattan.institute/article/portland-city-elections-toward-two-parties-more-or-none"><i>Portland City Elections: Toward Two Parties, More, or None?</i></a> American Enterprise Institute</a> and Manhattan Institute.
 
 Data include cast-vote records (CVRs) by council district and interest-group endorsements of candidates. To run the code that uses CVRs, you first need to unzip the file "portland city council cvrs.zip."
+
+Please cite the first report above if you are working with CVR data. Please cite the second if you are working with endorsement data. Thanks!
